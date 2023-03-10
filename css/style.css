@@ -51,6 +51,6 @@ header > p {
 main > section {
     margin-bottom: 3rem;
 }
-main > section > h2 ~ p strong {
+main section > h2 + p strong {
     color: purple;
 }
