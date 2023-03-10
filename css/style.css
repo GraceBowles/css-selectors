@@ -44,3 +44,7 @@ header > p {
 [rel="external"] {
     color: purple;
 }
+
+#experience {
+    border-bottom: 2px dashed #ccc;
+}
