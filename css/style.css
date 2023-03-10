@@ -57,3 +57,7 @@ main section > h2 + p strong {
 li:nth-child(even) {
     color: purple;
 }
+
+dl div:last-child {
+    background-color: #ccc;
+}
